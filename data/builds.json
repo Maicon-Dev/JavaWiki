@@ -11,7 +11,7 @@
   },
 
   "classes": {
-    "arch paladin": {
+    "archpaladin": {
       "name": "ArchPaladin",
       "weapon": "Valiance / Lacerate",
       "armor": "Lucky",
