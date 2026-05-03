@@ -65,6 +65,7 @@ async def build(interaction: discord.Interaction, classe: str):
     try:
         # 4. CRIAR O CANAL TEMPORÁRIO
         canal_temporario = await guild.create_text_channel(
+            category=interaction.channel.category,
             name=f"build-{interaction.user.name}",
             overwrites=overwrites
         )
