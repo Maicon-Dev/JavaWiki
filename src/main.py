@@ -16,7 +16,7 @@ bot = commands.Bot(command_prefix='/', intents=intents)
 
 #CÓDIGO DO BOT 
 @bot.tree.command(name="build", description="Gera uma sala privada com a build da classe solicitada.")
-@app_commands.describe(classe="Nome da classe (ex: Arch Paladin)")
+@app_commands.describe(classe="Nome da classe como está na Wiki (ex: ArchPaladin)")
 async def build(interaction: discord.Interaction, classe: str):
     try:
         with open('data/builds.json', 'r', encoding='utf-8') as file:
