@@ -19,138 +19,56 @@
       "helmet": "Forge base",
       "cape": "Lament / Penitence",
       "potion": "Fate Tonic"
-    }
-  }
-}
- "configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-  "classes": {
-    "Dragonoftime": {
-      "name": "Dragonoftime",
+    },
+    "lord of order": {
+      "name": "Lord of Order",
+      "weapon": " Awe Blast / Valience",
+      "armor": "lucky",
+      "helmet": "lucky / Forge Base",
+      "cape": "lucky / Absolution / Penitence",
+      "potion": "Sage tonic or Fate tonic / Divine Elixir"
+    },
+    "dragon of time": {
+      "name": "Dragon of Time",
       "weapon": "Elysium / Valience",
       "armor": "Wizard",
       "helmet": "Pneuma / hearty",
       "cape": "Vanglory",
       "potion": "Sage tonic / Potent Malevolence / Honor Potion"
-    }
-  }
-}
- "configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-  "classes": {
-    "Archmage": {
-      "name": "Archmage",
+    },
+    "archmage": {
+      "name": "ArchMage",
       "weapon": "Elysium / Acheron / Ravenous",
       "armor": "Wizard",
       "helmet": "Wizard / Pneuma",
       "cape": "Vanglory / Penitence",
       "potion": "Sage tonic / Potent Malevolence / Honor Potion"
-    }
-  }
-}
- "configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-  "classes": {
-    "Shadowhunter": {
-      "name": "Shadowhunter",
+    },
+    "chrono shadowhunter": {
+      "name": "Chrono ShadowHunter",
       "weapon": "Valience / Ravenous / Arcana concerto / Spiral Cave / Smite",
       "armor": "Lucky",
       "helmet": "lucky / Forge base / Vim",
       "cape": "Vanglory / Penitence / Lament",
       "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
-    }
-  }
-}
-"configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-  "classes": {
-    "Chaosavanger": {
-      "name": "Chaosavanger",
+    },
+    "chaos avenger": {
+      "name": "Chaos Avenger",
       "weapon": " Dauntles / Ravenous / Valience / Smite",
       "armor": "Lucky",
       "helmet": "lucky / Forge base / Vim",
       "cape": "Vanglory / Penitence / Lament",
       "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
-    }
-  }
-}
-"configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-  "classes": {
-    "ObsidianPaladin": {
-      "name": "ObsidianPaladin",
+    },
+    "obsidian paladin chronomancer": {
+      "name": "Obsidian Paladin Chronomancer",
       "weapon": " Mana vamp / Valience",
       "armor": "Lucky / Healer",
       "helmet": "Healer / Wizard /",
       "cape": "Vanglory / Penitence / Lament",
       "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
-    }
-  }
-}
-"configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-"classes": {
-    "Stonecrusher": {
+    },
+    "stonecrusher": {
       "name": "Stonecrusher",
       "weapon": " Awe Blast / Valience",
       "armor": "Wizard / lucky / Fighter",
@@ -160,31 +78,3 @@
     }
   }
 }
-"configBot": {
-    "allowedChannelName": "builds"
-  },
-
-  "layout": {
-    "weapon_icon": "⚔️",
-    "armor_icon": "🧥",
-    "helmet_icon": "🪖",
-    "cape_icon": "🧣",
-    "potion_icon": "🧪"
-  },
-
-"classes": {
-    "Lordoforder": {
-      "name": "Lordoforder",
-      "weapon": " Awe Blast / Valience",
-      "armor": "lucky",
-      "helmet": "lucky / Forge Base",
-      "cape": "lucky / Absolution / Penitence",
-      "potion": "Sage tonic or Fate tonic / Divine Elixir"
-    }
-  }
-}
-
-
-
-
-
