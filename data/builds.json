@@ -7,7 +7,8 @@
     "weapon_icon": "⚔️",
     "armor_icon": "🧥",
     "helmet_icon": "🪖",
-    "cape_icon": "🧣"
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
   },
 
   "classes": {
@@ -16,7 +17,8 @@
       "weapon": "Valiance / Lacerate",
       "armor": "Lucky",
       "helmet": "Forge base",
-      "cape": "Lament / Penitence"
+      "cape": "Lament / Penitence",
+      "potion": "Fate Tonic"
     }
   }
 }
