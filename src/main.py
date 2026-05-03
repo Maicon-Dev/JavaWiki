@@ -4,6 +4,11 @@ from discord import app_commands
 import asyncio
 import json
 import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+root = Path(__file__).resolve().parent.parent
+load_dotenv(root / '.env')
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='/', intents=intents)
