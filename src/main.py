@@ -14,7 +14,7 @@ bot = commands.Bot(command_prefix='/', intents=intents)
 @app_commands.describe(classe="Nome da classe (ex: Arch Paladin)")
 async def build(interaction: discord.Interaction, classe: str):
     try:
-        with open('builds.json', 'r', encoding='utf-8') as file:
+        with open('data/builds.json', 'r', encoding='utf-8') as file:
             builds_data = json.load(file)
     except Exception as e:
         await interaction.response.send_message(
