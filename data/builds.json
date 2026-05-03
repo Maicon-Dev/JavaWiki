@@ -14,7 +14,7 @@
   "classes": {
     "archpaladin": {
       "name": "ArchPaladin",
-      "weapon": "Valiance / Lacerate",
+      "weapon": "Valiance / Arcana Concerto / Awe Blast / Smite",
       "armor": "Lucky",
       "helmet": "Forge base",
       "cape": "Lament / Penitence",
@@ -22,3 +22,169 @@
     }
   }
 }
+ "configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+  "classes": {
+    "Dragonoftime": {
+      "name": "Dragonoftime",
+      "weapon": "Elysium / Valience",
+      "armor": "Wizard",
+      "helmet": "Pneuma / hearty",
+      "cape": "Vanglory",
+      "potion": "Sage tonic / Potent Malevolence / Honor Potion"
+    }
+  }
+}
+ "configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+  "classes": {
+    "Archmage": {
+      "name": "Archmage",
+      "weapon": "Elysium / Acheron / Ravenous",
+      "armor": "Wizard",
+      "helmet": "Wizard / Pneuma",
+      "cape": "Vanglory / Penitence",
+      "potion": "Sage tonic / Potent Malevolence / Honor Potion"
+    }
+  }
+}
+ "configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+  "classes": {
+    "Shadowhunter": {
+      "name": "Shadowhunter",
+      "weapon": "Valience / Ravenous / Arcana concerto / Spiral Cave / Smite",
+      "armor": "Lucky",
+      "helmet": "lucky / Forge base / Vim",
+      "cape": "Vanglory / Penitence / Lament",
+      "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
+    }
+  }
+}
+"configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+  "classes": {
+    "Chaosavanger": {
+      "name": "Chaosavanger",
+      "weapon": " Dauntles / Ravenous / Valience / Smite",
+      "armor": "Lucky",
+      "helmet": "lucky / Forge base / Vim",
+      "cape": "Vanglory / Penitence / Lament",
+      "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
+    }
+  }
+}
+"configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+  "classes": {
+    "ObsidianPaladin": {
+      "name": "ObsidianPaladin",
+      "weapon": " Mana vamp / Valience",
+      "armor": "Lucky / Healer",
+      "helmet": "Healer / Wizard /",
+      "cape": "Vanglory / Penitence / Lament",
+      "potion": "Fate Tonic / Potent Battle Elixir / Felicitous Philtre"
+    }
+  }
+}
+"configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+"classes": {
+    "Stonecrusher": {
+      "name": "Stonecrusher",
+      "weapon": " Awe Blast / Valience",
+      "armor": "Wizard / lucky / Fighter",
+      "helmet": "Wizard / lucky / Pneuma / Anima",
+      "cape": "Wizard / lucky / Absolution / Penitence",
+      "potion": "Sage tonic / Potent Malevolence or Divine Elixir / honor Potion"
+    }
+  }
+}
+"configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣",
+    "potion_icon": "🧪"
+  },
+
+"classes": {
+    "Lordoforder": {
+      "name": "Lordoforder",
+      "weapon": " Awe Blast / Valience",
+      "armor": "lucky",
+      "helmet": "lucky / Forge Base",
+      "cape": "lucky / Absolution / Penitence",
+      "potion": "Sage tonic or Fate tonic / Divine Elixir"
+    }
+  }
+}
+
+
+
+
+
