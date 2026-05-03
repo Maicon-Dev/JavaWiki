@@ -47,7 +47,8 @@ async def build(interaction: discord.Interaction, classe: str):
             f"{builds_data['layout']['weapon_icon']} **Arma/Weapon:** {build_info['weapon']}\n"
             f"{builds_data['layout']['armor_icon']} **Armadura/Armor** {build_info['armor']}\n"
             f"{builds_data['layout']['helmet_icon']} **Elmo/Helmet:** {build_info['helmet']}\n"
-            f"{builds_data['layout']['cape_icon']} **Capa/Cape:** {build_info['cape']}"
+            f"{builds_data['layout']['cape_icon']} **Capa/Cape:** {build_info['cape']}\n"
+            f"{builds_data['layout']['potion_icon']} **Poção/Potion:** {build_info['potion']}"
         ) 
     else:
         await interaction.response.send_message(f'❌ Ainda não tenho uma build para **{classe}**.', ephemeral=True)
