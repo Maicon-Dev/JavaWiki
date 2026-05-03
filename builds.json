@@ -1,0 +1,22 @@
+{
+  "configBot": {
+    "allowedChannelName": "builds"
+  },
+
+  "layout": {
+    "weapon_icon": "⚔️",
+    "armor_icon": "🧥",
+    "helmet_icon": "🪖",
+    "cape_icon": "🧣"
+  },
+
+  "classes": {
+    "arch paladin": {
+      "name": "ArchPaladin",
+      "weapon": "Valiance / Lacerate",
+      "armor": "Lucky",
+      "helmet": "Forge base",
+      "cape": "Lament / Penitence"
+    }
+  }
+}
