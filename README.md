@@ -38,3 +38,4 @@ O arquivo `builds.json` contém:
 - `classes`: Builds das classes disponíveis
 
 Adicione novas classes seguindo o formato existente.
+Siga o nome das classes da wiki e em letras minúsculas.
